@@ -1,0 +1,8 @@
+# Project-specific overrides
+public/* linguist-vendored
+*.bat text eol=crlf
+
+src/**/*.tsx linguist-detectable   
+src/*.ts linguist-detectable
+
+node_modules/* linguist-vendored
