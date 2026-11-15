@@ -1,0 +1,7 @@
+dist/
+*.log
+.cache/
+.env.local
+.pnpm-store/
+node_modules/
+.next/
